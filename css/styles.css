@@ -1,0 +1,48 @@
+.logo {
+    float: right;
+    vertical-align: top;
+}
+.nav-menu {
+    float: right;
+    vertical-align: top;
+    margin-right: 300px;
+}
+.clear {
+    clear: both;
+}
+.menu {
+    margin: 20px;
+    text-decoration: none;
+    color: rgb(31, 123, 243);
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.section1 {
+    background-color: rgb(238, 114, 13);
+    float: right;
+    width: 700px;
+    margin-right: 220px;
+}
+.section2 {
+    background-color: rgb(13, 238, 114);
+    float: left;
+    width: 700px;
+    margin-left: 220px;
+}
+.gogo {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 8px;
+}
+
+.moto {
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.div1 {
+    padding: 20px;
+}
+.div2 {
+    padding: 20px;
+}
